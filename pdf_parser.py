@@ -1,7 +1,5 @@
 from PyPDF4.pdf import PdfFileReader
-import code
 import re
-import pdb
 
 LIKED = 'Liked'
 LACKED = 'Lacked'

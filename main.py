@@ -1,4 +1,3 @@
-import sys
 import glob
 import pdf_parser
 from datetime import datetime
