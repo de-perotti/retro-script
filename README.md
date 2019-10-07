@@ -1,3 +1,10 @@
+# Retro Script
+
+A script that turns the PDF exported version of the [ScatterSpoke](https://www.scatterspoke.com/) board into a CSV file.
+
+Supported types of boards:
+- 4 L's (Liked, Lacked, Learned, Longed For)
+
 ## Simple steps to get this script going
 
 1. Install python3.x+, pip and virtualenv (https://docs.python-guide.org/dev/virtualenvs/)
